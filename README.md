@@ -1,0 +1,2 @@
+Risc_V_single_cycle_processor
+Implemented 22 instructions
